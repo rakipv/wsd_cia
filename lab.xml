@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='lab.xsl'?>
+
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="lab.xsd">
+
+  <Employee>
+  <emp-id>1</emp-id>
+<emp-name>rakesh</emp-name>
+<emp-age>22</emp-age>
+<emp-salary>50000</emp-salary>
+<emp-emailid>rakeshpv@gmail.com</emp-emailid>
+<emp-phonenum>9380217937</emp-phonenum>
+<emp-designation>HR</emp-designation>
+  </Employee>
+
+   <Employee>
+  <emp-id>2</emp-id>
+<emp-name>rajesh</emp-name>
+<emp-age>50</emp-age>
+<emp-salary>55000</emp-salary>
+<emp-emailid>rajeshpv@gmail.com</emp-emailid>
+<emp-phonenum>9380217937</emp-phonenum>
+<emp-designation>ADMIN</emp-designation>
+  </Employee>
+
+   <Employee>
+  <emp-id>3</emp-id>
+<emp-name>maldon</emp-name>
+<emp-age>30</emp-age>
+<emp-salary>75000</emp-salary>
+<emp-emailid>maldon@gmail.com</emp-emailid>
+<emp-phonenum>93802123</emp-phonenum>
+<emp-designation>TeamLeader</emp-designation>
+  </Employee>
+
+   <Employee>
+  <emp-id>4</emp-id>
+<emp-name>smith</emp-name>
+<emp-age>60</emp-age>
+<emp-salary>100000</emp-salary>
+<emp-emailid>smith@gmail.com</emp-emailid>
+<emp-phonenum>9164217937</emp-phonenum>
+<emp-designation>IT_Lead</emp-designation>
+  </Employee>
+
+   <Employee>
+  <emp-id>5</emp-id>
+<emp-name>johusa</emp-name>
+<emp-age>34</emp-age>
+<emp-salary>90009</emp-salary>
+<emp-emailid>joshua@gmail.com</emp-emailid>
+<emp-phonenum>9380216348</emp-phonenum>
+<emp-designation>Sales_head</emp-designation>
+  </Employee>
+ 
+ 
+</Company>
+
